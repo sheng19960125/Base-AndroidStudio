@@ -2,7 +2,7 @@
 ## Android Studio 安裝教學及基本建立專案流程
 ### 複製後面網址，直接下載Android Studio 並點擊安裝。(https://developer.android.com/studio/)
 * 基本安裝過程極為容易，沒什麼困難點，一直點Next即可安裝完畢，安裝路徑也可以修改為自己想自定義的安裝路徑，在看自己是否在桌面建立捷徑等等，安裝完成後，接著開始安裝Android SDK，基本點選Standard 再點Next 即可安裝完畢，接著會來到基本頁面，可以直接建立專案，點擊Start a new Android Studio project，即可準備開始建立自己第一個App囉！  
-![](https://github.com/sheng19960125/Base-AndroidStudio/raw/android_studio_main.png)  
+![](https://github.com/sheng19960125/Base-AndroidStudio/blob/master/android_studio_set_type.png)  
 * 設定基本專案部分，會有幾項供使用者填寫，填寫內容類別如下：  
     * Application name：你的APP名稱  
     * Company Domain  ：公司或你自己的 domain 名稱，用來辨識這個APP的所有者是誰。  
