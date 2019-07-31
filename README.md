@@ -18,7 +18,7 @@
    * 清單：包含AndroidManifest.xml文件。  
    * java：包含Java源代碼文件及測試代碼。  
    * res：包含所有非代碼資源，例如XML佈局，UI字符串和圖像。  
-  
+![](https://github.com/sheng19960125/Base-AndroidStudio/blob/master/android_studio_main.png)  
 * 磁盤上的Android項目結構與此展平表示形式不同。要查看項目的實際文件結構，請從Project下拉列表中選擇 Project，如下圖。  
-  
+![](https://github.com/sheng19960125/Base-AndroidStudio/blob/master/android_studio_main_project.png)  
 * 您還可以自定義項目文件的視圖，以專注於應用程序開發的特定方面。  
