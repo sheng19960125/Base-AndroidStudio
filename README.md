@@ -5,10 +5,10 @@
 2.安裝完成後，接著開始安裝Android SDK，基本點選Standard 再點Next 即可安裝完畢。  
 3.接著會來到基本頁面，可以直接建立專案，點擊Start a new Android Studio project，即可準備開始建立自己第一個App囉！  
 4.設定基本專案部分，會有幾項供使用者填寫，填寫內容類別如下：  
-  (1).Application name：你的APP名稱  
-  (2).Company Domain  ：公司或你自己的 domain 名稱，用來辨識這個APP的所有者是誰。  
-  (3).Package name    ：專案的 Java 套件名稱，預設為Company Domain加Application nam組合，也可以點擊右方Edit修改自己喜歡的名稱。  
-  (4).Project location：專案的儲存位置，建議可以建立一個專門存放APP專案的資料夾。  
+  *Application name：你的APP名稱  
+  *Company Domain  ：公司或你自己的 domain 名稱，用來辨識這個APP的所有者是誰。  
+  *Package name    ：專案的 Java 套件名稱，預設為Company Domain加Application nam組合，也可以點擊右方Edit修改自己喜歡的名稱。  
+  *Project location：專案的儲存位置，建議可以建立一個專門存放APP專案的資料夾。  
     
 接著會要求選擇Minimum API levels，基本我是選擇版本23(此版本是沒有權限問題，基本調用沒太多限制)，但隨著隱私崛起目前我都推薦使用版本26，在26版本後要調用例如：相機、GPS、資料夾的新增或是獲取、提示等等，都需要額外寫讓使用者同意的選擇框才能調用，點選Finish即可完成最基本的APP架設。  
   
